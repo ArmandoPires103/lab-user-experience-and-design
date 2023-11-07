@@ -37,7 +37,7 @@ Critically analyze the [Ebay](https://www.ebay.com/) website to identify bad UX 
 
 ### Report Writing
 
-Prepare a report with the following structure:
+Prepare a mini-report with the following structure:
 
 1. **Introduction:** Brief description of the website's purpose.
 1. **Methodology:** Outline the methods used for analysis (e.g., heuristic evaluation, user journey mapping).
