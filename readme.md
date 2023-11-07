@@ -44,7 +44,11 @@ User `markdown` to prepare a mini UX case report with the following structure:
 1. **Good UX Findings:** Highlight what the website does well, with specific examples. (if you use screenshots include them in the assets folder)
 1. **Bad UX Findings:** Detail the UX issues found, with screenshots and references to heuristic principles or other UX standards.
 1. **Impact Assessment:** Discuss the potential impact of the bad UX on user behavior and business outcomes.
-1. **Recommendations:** Provide specific, actionable recommendations for how the bad UX can be improved. (you may include sitemaps to demonstrator better navigation options, or include wireframes or low-fi mockups if you want to demonstrate a different layout, or even create screenshots after manually editing the ebay site using the Browser Inspector tools to change the CSS and HTML)
+1. **Recommendations:** Provide specific, actionable recommendations for how the bad UX can be improved.
+   You may, for example:
+   - include sitemaps to demonstrator better navigation options,
+   - include wireframes or low-fi mockups if you want to demonstrate a different layout
+   - create screenshots after manually editing the ebay site using the Browser Inspector tools to change the CSS and HTML
 1. **Conclusion:** Summarize the key points and any overall insights gained from the analysis.
 
 _You may also include any other categories that you have seen in your research from other Case Analyses_
