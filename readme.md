@@ -32,8 +32,8 @@ You've seen examples of a UX Case Study Analysis.
 - [Memento](https://mahsakeyhani.com/memento.html)
 - [Perfect Recipes App](https://blog.tubikstudio.com/case-study-recipes-app-ux-design/)
 
-In your ` case-study.md`` file, create a __mini UX Case Study__.
-Use the  `assets` folder for any images that you want to include.
+In your ` case-study.md` file, create a **mini UX Case Study**.
+Use the `assets` folder for any images that you want to include.
 
 ### Case Report Writing
 
