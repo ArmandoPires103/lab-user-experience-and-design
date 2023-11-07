@@ -12,7 +12,7 @@ To Submit, make a `pull request` and paste your `pull request URL` in the Canvas
 
 ### Getting started
 
-Below are two links to examples of Good UX/UI. They are the 2023 Winners of the [Webby Awards](https://www.webbyawards.com/). One in the `Shopping & Retail Websites and Mobile Sites` category & the other in the `Diversity, Equity & Inclusion Websites and Mobile Sites` category.
+Below are two links to examples of Good UX/UI. They are the 2023 Winners of the [Webby Awards](https://www.webbyawards.com/). One in the **Shopping & Retail Websites and Mobile Sites** category & the other in the **Diversity, Equity & Inclusion Websites and Mobile Sites** category.
 
 - [Earthform](https://basement.studio/)
 
