@@ -1,4 +1,4 @@
-# Uesr Experience and Design
+# Uesr Experience and Design Lab
 
 <img src='assets/design.png' alt="ux/ui chart" width="500" height="300">
 
