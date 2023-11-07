@@ -50,8 +50,7 @@ User `markdown` to prepare a mini UX case report with the following structure:
    - include wireframes or low-fi mockups if you want to demonstrate a different layout
    - create screenshots after manually editing the ebay site using the Browser Inspector tools to change the CSS and HTML
 1. **Conclusion:** Summarize the key points and any overall insights gained from the analysis.
-
-_You may also include any other categories that you have seen in your research from other Case Analyses_
+1. **Extra:** You may also include any other categories that you have seen in your research from other Case Analyses
 
 There is no perfect report so do your best to be specific, clear and make good, actionable suggestions.
 
