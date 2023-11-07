@@ -6,7 +6,7 @@ Take a look at this article on [How Long Users Stay on Websites](https://www.nng
 
 ## Lab Setup
 
-` Fork`` and  `Clone`` this repo. **You do not need to deploy.**
+` Fork` and `Clone` this repo. **You do not need to deploy.**
 
 To Submit, make a `pull request` and paste your `pull request URL` in the Canvas assignment.
 
