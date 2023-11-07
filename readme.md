@@ -35,7 +35,7 @@ Use the  `assets` folder for any images that you want to include.
 
 Critically analyze the [Ebay](https://www.ebay.com/) website to identify bad UX practices and propose actionable improvements. You will use the same Heuristic Principles as you did above to help you with identify why parts of the site are bad UX.
 
-### Report Writing
+### Case Report Writing
 
 User `markdown` to prepare a mini UX case report with the following structure:
 
