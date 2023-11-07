@@ -1,6 +1,6 @@
 # Uesr Experience and Design Lab
 
-<img src='assets/design.png' alt="ux/ui chart" width="500" height="300">
+<img src='assets/design.png' alt="ux/ui chart" width="600" height="400">
 
 User Experience and User Interface are two valuable parts of the software devlopment process.
 
