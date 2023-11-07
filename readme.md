@@ -42,8 +42,11 @@ Below are examples of a UX Case Study Analyses.
 
 ### Part 3 - Case Report Writing
 
-In your ` case-study.md` file, use `markdown` to prepare a mini UX case report
+In your ` case-study.md` file, use `markdown` to prepare a mini UX case report. Do not try to comment on the whole site, just pick one portion of the site that you could improve. (e.g. landing page, navigation, call to action) _Remember how Asana focused on one small feature, Goals Feature_
+
 Use the `assets` folder for any images that you want to include.
+
+#### Format
 
 The report should loosely have the following structure:
 
