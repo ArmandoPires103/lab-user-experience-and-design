@@ -1,31 +1,47 @@
 # Uesr Experience and Design
 
-Use this VIP app to practice improving the UX/UI.
-
----
+User Experience and User Interface are two valuable parts of Software Devlopment.
+Take a look at this article on [How Long Users Stay on Websites](https://www.nngroup.com/articles/how-long-do-users-stay-on-web-pages/) as well as [Deceptive Patterns](https://darkpatterns.org/). (_Dark patterns are deceptive designs in a user interface that trick users into doing things._)
 
 ## Lab Setup
 
-Included is a functional web app:
+` Fork`` and  `Clone`` this repo. **You do not need to deploy.**
 
-![functioning vip app, no css](./assets/vip-app.gif)
-
-However, there have been some questionable UX/UI choices added to the app. Your job will be to add HTML and CSS to make this app easy and intuitive to understand and use.
+To Submit, make a `pull request` and paste your `pull request URL` in the Canvas assignment.
 
 ### Getting started
 
-1. Fork and clone this repository.
+Below are two links to examples of Good UX/UI. They are the 2023 Winners of the [Webby Awards](https://www.webbyawards.com/). One in the `Shopping & Retail Websites and Mobile Sites` category & the other in the `Diversity, Equity & Inclusion Websites and Mobile Sites` category.
 
-1. Navigate to the `settings` tab on GitHub, then choose `Pages` from the menu. Configure the `Build and Deployment` to have a `Source` of `Deploy from a branch` and select the `main` branch for deployment. Deployments can take a few minutes, so get started on the lab, and then be sure to check the deployment after you have made a few commits.
+- [Earthform](https://basement.studio/)
 
-1. Open up the repository in VSCode. Follow the instructions below to complete the Lab.
+- [Crafted](https://experiencecrafted.com/)
+
+Take a look at the sites above and notice what makes these sites successful and an example of good UX and UX/UI. Use the categories from [Nielsen’s Heuristics: 10 Usability Principles To Improve UI Design](https://aelaschool.com/en/interactiondesign/10-usability-heuristics-ui-design/) to confirm the design success.
 
 ## Instructions
 
-Take some time to use the app and familiarize yourself with how it works. Note what was difficult or confusing.
+You've seen examples of a UX Case Study Analysis.
 
-Update the HTML to clarify the content of the app.
+- [Jambb](https://www.finna.wang/jambb)
+- [Memento](https://mahsakeyhani.com/memento.html)
+- [Perfect Recipes App](https://blog.tubikstudio.com/case-study-recipes-app-ux-design/)
 
-Update the CSS to improve the user experience.
+In your case-study.md file, you are going to create a mini UX Case Study.
+Use the `assets` folder for any images that you want to include.
 
-> **Note**: You may delete the entire CSS content and start from scratch or edit what is there.
+### Objective:
+
+Critically analyze the [Ebay](https://www.ebay.com/) website to identify bad UX practices and propose actionable improvements. You will use the same Heuristic Principles as you did above to help you with identify why parts of the site are bad UX.
+
+### Report Writing
+
+Prepare a report with the following structure:
+
+1. **Introduction:** Brief description of the website's purpose.
+1. **Methodology:** Outline the methods used for analysis (e.g., heuristic evaluation, user journey mapping).
+1. **Good UX Findings:** Highlight what the website does well, with specific examples. (if you use screenshots include them in the assets folder)
+1. **Bad UX Findings:** Detail the UX issues found, with screenshots and references to heuristic principles or other UX standards.
+1. **Impact Assessment:** Discuss the potential impact of the bad UX on user behavior and business outcomes.
+1. **Recommendations:** Provide specific, actionable recommendations for how the bad UX can be improved. (you may include sitemaps to show a better, click thru, wireframes if you want to demonstrate a different layout, even creating screenshots after editing their site using the Browser Inspector tools to change the CSS and HTML)
+1. **Conclusion:** Summarize the key points and any overall insights gained from the analysis.
