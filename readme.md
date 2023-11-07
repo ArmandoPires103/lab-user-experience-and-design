@@ -18,6 +18,8 @@ To submit your assignment, make a `pull request` and paste your `pull request UR
 
 ## Introduction
 
+The Webby Awards is presented by the International Academy of Digital Arts and Sciences (IADAS and is the leading international award honoring excellence on the Internet. (resource: https://www.webbyawards.com/about/)
+
 Below are two links to examples of Good UX/UI. They are the 2023 Winners of the [Webby Awards](https://www.webbyawards.com/). One in the _Shopping & Retail Websites and Mobile Sites_ category & the other in the _Diversity, Equity & Inclusion Websites and Mobile Sites_ category respectively.
 
 - [Earthform](https://basement.studio/)
