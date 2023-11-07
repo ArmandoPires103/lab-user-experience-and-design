@@ -2,10 +2,6 @@
 
 <img src='assets/design.png' alt="ux/ui chart" width="600" height="400">
 
-User Experience and User Interface are two valuable parts of the software devlopment process.
-
-Take a look at this article on [How Long Users Stay on Websites](https://www.nngroup.com/articles/how-long-do-users-stay-on-web-pages/) as well as [Deceptive Patterns](https://darkpatterns.org/). (_Dark patterns are deceptive designs in a user interface that trick users into doing things._)
-
 ## Lab Setup
 
 ### Getting started
@@ -16,7 +12,15 @@ Take a look at this article on [How Long Users Stay on Websites](https://www.nng
 
 To submit your assignment, make a `pull request` and paste your `pull request URL` in the Canvas assignment.
 
-## Introduction
+## Instructions
+
+### Part 1 - Introduction
+
+User Experience and User Interface are two valuable parts of the software devlopment process.
+
+Take a look at this article on [How Long Users Stay on Websites](https://www.nngroup.com/articles/how-long-do-users-stay-on-web-pages/) as well as [Deceptive Patterns](https://darkpatterns.org/). (_Dark patterns are deceptive designs in a user interface that trick users into doing things._)
+
+### Part 2 - Research
 
 The Webby Awards is presented by the International Academy of Digital Arts and Sciences (IADAS) and is the leading international award honoring excellence on the Internet. (resource: https://www.webbyawards.com/about/)
 
@@ -28,20 +32,18 @@ Below are two links to examples of Good UX/UI. They are the 2023 Winners of the 
 
 Take a look at the sites above and notice what makes these sites successful and an example of good UX and UI. Use the categories from [Nielsen’s Heuristics: 10 Usability Principles To Improve UI Design](https://aelaschool.com/en/interactiondesign/10-usability-heuristics-ui-design/) to confirm the design success.
 
-## Instructions
+### Part 3 - Case Report Writing
 
-You've seen examples of a UX Case Study Analysis.
+Below are examples of a UX Case Study Analyses.
 
 - [Jambb](https://www.finna.wang/jambb)
 - [Memento](https://mahsakeyhani.com/memento.html)
 - [Perfect Recipes App](https://blog.tubikstudio.com/case-study-recipes-app-ux-design/)
 
-In your ` case-study.md` file, create a **mini UX Case Study**.
+In your ` case-study.md` file, use `markdown` to prepare a mini UX case report
 Use the `assets` folder for any images that you want to include.
 
-### Case Report Writing
-
-User `markdown` to prepare a mini UX case report with the following structure:
+The report should loosely have the following structure:
 
 1. **Introduction:** Brief description of the website's purpose.
 1. **Methodology:** Outline the methods used for analysis (e.g., [heuristic evaluation](https://aelaschool.com/en/interactiondesign/10-usability-heuristics-ui-design/), user journey mapping, site research, click-thru and assess....)
