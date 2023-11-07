@@ -24,21 +24,25 @@ Take a look at this article on [How Long Users Stay on Websites](https://www.nng
 
 The Webby Awards is presented by the International Academy of Digital Arts and Sciences (IADAS) and is the leading international award honoring excellence on the Internet. (resource: https://www.webbyawards.com/about/)
 
+#### Good UX/UI
+
 Below are two links to examples of Good UX/UI. They are the 2023 Winners of the [Webby Awards](https://www.webbyawards.com/). One in the _Shopping & Retail Websites and Mobile Sites_ category & the other in the _Diversity, Equity & Inclusion Websites and Mobile Sites_ category respectively.
 
-- [Earthform](https://basement.studio/)
+1. [Earthform](https://basement.studio/)
 
-- [Crafted](https://experiencecrafted.com/)
+1. [Crafted](https://experiencecrafted.com/)
 
-1. Take a look at the sites above and notice what makes these sites successful and an example of good UX and UI. Use the categories from [Nielsen’s Heuristics: 10 Usability Principles To Improve UI Design](https://aelaschool.com/en/interactiondesign/10-usability-heuristics-ui-design/) to confirm the design success.
+Take a look at the sites above and notice what makes these sites successful and an example of good UX and UI. Use the categories from [Nielsen’s Heuristics: 10 Usability Principles To Improve UI Design](https://aelaschool.com/en/interactiondesign/10-usability-heuristics-ui-design/) to confirm the design success.
+
+#### Case Studies
 
 Below are examples of a UX Case Study Analyses.
 
-2. Investigate and note the structure one or more of these Case Studies
+Investigate and note the structure of or more of these Case Studies
 
-- [Jambb](https://www.finna.wang/jambb)
-- [Memento](https://mahsakeyhani.com/memento.html)
-- [Perfect Recipes App](https://blog.tubikstudio.com/case-study-recipes-app-ux-design/)
+1. [Jambb](https://www.finna.wang/jambb)
+1. [Memento](https://mahsakeyhani.com/memento.html)
+1. [Perfect Recipes App](https://blog.tubikstudio.com/case-study-recipes-app-ux-design/)
 
 ### Part 3 - Case Report Writing
 
