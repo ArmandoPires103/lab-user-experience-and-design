@@ -6,11 +6,15 @@ Take a look at this article on [How Long Users Stay on Websites](https://www.nng
 
 ## Lab Setup
 
+### Getting started
+
 ` Fork` and `Clone` this repo. **You do not need to deploy.**
 
-To Submit, make a `pull request` and paste your `pull request URL` in the Canvas assignment.
+### Submission
 
-### Getting started
+To submit your assignment, make a `pull request` and paste your `pull request URL` in the Canvas assignment.
+
+## Introduction
 
 Below are two links to examples of Good UX/UI. They are the 2023 Winners of the [Webby Awards](https://www.webbyawards.com/). One in the _Shopping & Retail Websites and Mobile Sites_ category & the other in the _Diversity, Equity & Inclusion Websites and Mobile Sites_ category respectively.
 
@@ -28,12 +32,8 @@ You've seen examples of a UX Case Study Analysis.
 - [Memento](https://mahsakeyhani.com/memento.html)
 - [Perfect Recipes App](https://blog.tubikstudio.com/case-study-recipes-app-ux-design/)
 
-In your ` case-study.md`` file, create a mini UX Case Study.
+In your ` case-study.md`` file, create a __mini UX Case Study__.
 Use the  `assets` folder for any images that you want to include.
-
-### Objective:
-
-Critically analyze the [Ebay](https://www.ebay.com/) website to identify bad UX practices and propose actionable improvements. You will use the same Heuristic Principles as you did above to help you with identify why parts of the site are bad UX.
 
 ### Case Report Writing
 
