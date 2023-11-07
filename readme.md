@@ -49,4 +49,6 @@ User `markdown` to prepare a mini UX case report with the following structure:
 
 _You may also include any other categories that you have seen in your research from other Case Analyses_
 
-There is no perfect report or structure so do your best to be specific, clear and make good, actionable suggestions.
+There is no perfect report so do your best to be specific, clear and make good, actionable suggestions.
+
+\*\* Remember to use tools such as `spell check` and `grammar check` on your report.
