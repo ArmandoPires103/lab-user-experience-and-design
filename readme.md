@@ -1,6 +1,7 @@
 # Uesr Experience and Design
 
-User Experience and User Interface are two valuable parts of Software Devlopment.
+User Experience and User Interface are two valuable parts of the software devlopment process.
+
 Take a look at this article on [How Long Users Stay on Websites](https://www.nngroup.com/articles/how-long-do-users-stay-on-web-pages/) as well as [Deceptive Patterns](https://darkpatterns.org/). (_Dark patterns are deceptive designs in a user interface that trick users into doing things._)
 
 ## Lab Setup
