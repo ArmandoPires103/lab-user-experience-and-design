@@ -40,7 +40,7 @@ Use the `assets` folder for any images that you want to include.
 User `markdown` to prepare a mini UX case report with the following structure:
 
 1. **Introduction:** Brief description of the website's purpose.
-1. **Methodology:** Outline the methods used for analysis (e.g., heuristic evaluation, user journey mapping).
+1. **Methodology:** Outline the methods used for analysis (e.g., [heuristic evaluation](https://aelaschool.com/en/interactiondesign/10-usability-heuristics-ui-design/), user journey mapping, site research, click-thru and assess....)
 1. **Good UX Findings:** Highlight what the website does well, with specific examples. (if you use screenshots include them in the assets folder)
 1. **Bad UX Findings:** Detail the UX issues found, with screenshots and references to heuristic principles or other UX standards.
 1. **Impact Assessment:** Discuss the potential impact of the bad UX on user behavior and business outcomes.
