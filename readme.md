@@ -1,5 +1,7 @@
 # Uesr Experience and Design
 
+<img src='assets/design.png' alt="ux/ui chart" width="500" height="300">
+
 User Experience and User Interface are two valuable parts of the software devlopment process.
 
 Take a look at this article on [How Long Users Stay on Websites](https://www.nngroup.com/articles/how-long-do-users-stay-on-web-pages/) as well as [Deceptive Patterns](https://darkpatterns.org/). (_Dark patterns are deceptive designs in a user interface that trick users into doing things._)
