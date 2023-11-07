@@ -46,3 +46,7 @@ User `markdown` to prepare a mini UX case report with the following structure:
 1. **Impact Assessment:** Discuss the potential impact of the bad UX on user behavior and business outcomes.
 1. **Recommendations:** Provide specific, actionable recommendations for how the bad UX can be improved. (you may include sitemaps to show a better, click thru, wireframes if you want to demonstrate a different layout, even creating screenshots after editing their site using the Browser Inspector tools to change the CSS and HTML)
 1. **Conclusion:** Summarize the key points and any overall insights gained from the analysis.
+
+_You may also include any other categories that you have seen in your research from other Case Analyses_
+
+There is no perfect report or structure so do your best to be specific, clear and make good, actionable suggestions.
