@@ -18,7 +18,7 @@ Below are two links to examples of Good UX/UI. They are the 2023 Winners of the 
 
 - [Crafted](https://experiencecrafted.com/)
 
-Take a look at the sites above and notice what makes these sites successful and an example of good UX and UX/UI. Use the categories from [Nielsen’s Heuristics: 10 Usability Principles To Improve UI Design](https://aelaschool.com/en/interactiondesign/10-usability-heuristics-ui-design/) to confirm the design success.
+Take a look at the sites above and notice what makes these sites successful and an example of good UX and UI. Use the categories from [Nielsen’s Heuristics: 10 Usability Principles To Improve UI Design](https://aelaschool.com/en/interactiondesign/10-usability-heuristics-ui-design/) to confirm the design success.
 
 ## Instructions
 
