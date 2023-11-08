@@ -46,6 +46,8 @@ Investigate and note the structure of or more of these Case Studies
 
 ### Part 3 - Case Report Writing
 
+[Ebay.com](http://ebay.com) is an example mostly of bad UX design. You are going to use this site for your Case Report.
+
 In your ` case-study.md` file, use `markdown` to prepare a mini UX case report. Do not try to comment on the whole site, just pick one portion of the site that you could improve. (e.g. landing page, navigation, call to action) _Remember how Asana focused on one small feature, Goals Feature_
 
 Use the `assets` folder for any images that you want to include.
