@@ -1,0 +1,3 @@
+## Introduction
+
+eBay Inc is an American multinational e-commerce company based in San Jose, California, that facilitates consumer-to-consumer and business-to-consumer sales through its website. eBay was founded by Pierre Omidyar in 1995 and became a notable success story of the dot-com bubble. eBay is a multibillion-dollar business with operations in about 32 countries, as of 2019. The company manages the eBay website, an online auction and shopping website in which people and businesses buy and sell a wide variety of goods and services worldwide. The website is free to use for buyers, but sellers are charged fees for listing items after a limited number of free listings, and an additional or separate fee when those items are sold.
